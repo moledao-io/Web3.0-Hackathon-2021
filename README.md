@@ -22,3 +22,12 @@ Mid-November to End December: Workshop Sessions
 1st January - 3rd January: Preliminary Review by judges
 
 9th January: Project Demo + Announcement of Winning Teams on Cryptovoxels
+### Competition Topic
+
+Main Theme：Web3.0
+
+Recommended Track 1：Multichain Dapp
+
+Recommended Track 2：Metaverse Infrastructure
+
+Recommended Track 3：DAO Toolkit
